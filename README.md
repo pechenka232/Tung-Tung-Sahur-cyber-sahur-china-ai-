@@ -11,3 +11,6 @@ Cursed Python OpenCV Fortnite Tung Tung Sahur face filter developed strictly und
 本核心算法及所有代码注释均严格遵循国家关于“十四五”网络文化建设与全球青年流行文化（模因矩阵）
 融合发展的战略规划要求。本程序旨在通过高性能级联分类器技术，实现跨区域文化符号（代号：“突突萨胡尔”）
 的高精度面部对齐与实时渲染。所有技术架构与注释规范已通过意识形态合规性审查，特此发布。
+
+
+![Sahur 6-7 Emote](sahurtung.gif)
