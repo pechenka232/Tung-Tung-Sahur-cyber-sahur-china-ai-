@@ -1,3 +1,5 @@
+Give a star now to get your share once Microsoft buys the project!
+Поставьте звезду сейчас, чтобы получить свою долю, как только Microsoft купит проект!
 # Tung-Tung-Sahur-cyber-sahur-china-ai-
 Cursed Python OpenCV Fortnite Tung Tung Sahur face filter developed strictly under the wise guidance and ideological inspiration of the Great Party. Written with 100% Chinese comments for advanced cultural integration.  Мем бревно фортнайт тикток вирус фортнайт балс
 
